@@ -1,4 +1,4 @@
-# How to move the Paddle
+# Paddle Movement
 
 ## Feature
 
@@ -12,10 +12,10 @@ a paddle for a player.
 
   Given: The paddle size for a player
   
-  When: The player calls the "movePaddle()"
+  When: The player calls the "move paddle"
   
   function
 
-  Then: The paddle moves in a
+  Then: The paddle moves in a few strides in
   
-  particular direction
+  a particular direction 
