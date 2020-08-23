@@ -12,7 +12,7 @@ a paddle for a player.
 
   Given: The paddle size for a player
   
-  When: The player calls the movePaddle()
+  When: The player calls the "movePaddle()"
   
   function
 
