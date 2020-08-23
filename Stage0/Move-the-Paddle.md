@@ -18,4 +18,4 @@ a paddle for a player.
 
   Then: The paddle moves in a few strides in
   
-  a particular direction 
+  a particular direction
